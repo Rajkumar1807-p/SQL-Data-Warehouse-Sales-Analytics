@@ -220,7 +220,7 @@ sql-data-warehouse-project/
 
 ## Skills Demonstrated
 
-`Data Warehousing` · `ETL Pipelines` · `Medallion Architecture` · `Star Schema Modeling` · `T-SQL` · `Stored Procedures` · `CTEs` · `Window Functions` · `Data Cleansing` · `Data Quality Testing` · `Business Analytics`
+`Data Warehousing` · `ETL Pipelines` · `Medallion Architecture` · `Star Schema Modeling`  · `Stored Procedures` · `CTEs` · `Window Functions` · `Data Cleansing` · `Data Quality Testing` · `Business Analytics`
 
 ---
 
