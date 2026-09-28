@@ -232,7 +232,11 @@ sql-data-warehouse-project/
 
 ---
 
-## Acknowledgements
+## 🙏 Acknowledgements
+
+Special thanks to **Data With Baraa** for providing the educational guidance and project framework that supported my learning throughout this SQL Data Warehouse and Analytics project.
+
+This project was completed as part of my hands-on learning in SQL, data warehousing, ETL, data modeling, and analytics. The concepts and implementation were studied and adapted to strengthen my practical understanding of building an end-to-end data analytics workflow.
 
 Built while following the SQL Data Warehouse project by [Data With Baraa](https://www.youtube.com/@datawithbaraa). The architecture diagrams, data catalog, and naming conventions in `docs/` come from the course material, shared under the MIT License (see [`LICENSE`](LICENSE)).
 
@@ -245,8 +249,5 @@ Built while following the SQL Data Warehouse project by [Data With Baraa](https:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pothunuri-rajkumar-3596ba326/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rajkumar1807-p)
 
-## 🙏 Acknowledgements
 
-Special thanks to **Data With Baraa** for providing the educational guidance and project framework that supported my learning throughout this SQL Data Warehouse and Analytics project.
 
-This project was completed as part of my hands-on learning in SQL, data warehousing, ETL, data modeling, and analytics. The concepts and implementation were studied and adapted to strengthen my practical understanding of building an end-to-end data analytics workflow.
